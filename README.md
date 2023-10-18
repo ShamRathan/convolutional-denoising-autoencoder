@@ -43,7 +43,6 @@ from tensorflow.keras import models
 from tensorflow.keras.datasets import mnist
 import numpy as np
 import matplotlib.pyplot as plt
-
 ```
 ### Read Dataset & scale it:
 ```
